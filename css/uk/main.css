@@ -1,0 +1,14 @@
+img.uk-fadeIn{
+	display:none;
+}
+
+html{
+	height : 100%;
+}
+div.backoffice{
+	height : 100%;
+}
+div.mail-list{
+	height : 100%;
+	overflow-y: scroll;
+}
